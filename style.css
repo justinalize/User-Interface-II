@@ -145,7 +145,6 @@ footer button {
     padding: 10% 20% 10% 20%;
     text-transform: uppercase;
     font-weight: bold;
-    display: inline-block;
     white-space: nowrap;
     display: flex;
     justify-content: center;
